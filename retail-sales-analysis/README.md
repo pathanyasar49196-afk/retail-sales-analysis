@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analytics — End-to-End Data Analysis Project
+#  Retail Sales Analytics — End-to-End Data Analysis Project
 
 **Author:** Yasar Khan Sattar Khan Pathan
 **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL · Power BI
