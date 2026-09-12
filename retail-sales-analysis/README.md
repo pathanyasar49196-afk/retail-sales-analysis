@@ -83,7 +83,7 @@ python data/generate_data.py
 jupyter notebook notebooks/retail_sales_analysis.ipynb
 ```
 
-## 🧰 Skills Demonstrated
+##  Skills Demonstrated
 `Data Cleaning` `Exploratory Data Analysis` `Python (Pandas/NumPy)`
 `Data Visualization (Matplotlib/Seaborn)` `SQL (CTEs, Window Functions, Views)`
 `Power BI` `DAX` `Business/KPI Reporting`
