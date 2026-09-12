@@ -7,7 +7,7 @@ An end-to-end data analysis project simulating a retail company's sales data —
 covering data generation, cleaning, exploratory analysis, SQL querying, and an
 interactive Power BI dashboard.
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes 2 years (2024–2025) of retail sales data across 5 product
 categories, 5 regions, and 3 customer segments to answer:
 - Which categories and regions drive the most revenue and profit?
@@ -15,7 +15,7 @@ categories, 5 regions, and 3 customer segments to answer:
 - What are the monthly sales trends and growth rates?
 - Which customer segment contributes most to sales?
 
-## 🗂️ Repository Structure
+##  Repository Structure
 ```
 retail-sales-analysis/
 ├── data/
@@ -37,7 +37,7 @@ retail-sales-analysis/
 └── README.md
 ```
 
-## 🔧 Workflow
+##  Workflow
 1. **Data Generation** — Simulated 5,000+ realistic retail transactions.
 2. **Data Cleaning** (Python) — Removed duplicates, standardized text fields,
    handled missing values, engineered features (`ProfitMargin`, `ShippingDays`).
@@ -48,7 +48,7 @@ retail-sales-analysis/
 5. **Dashboard** (Power BI) — DAX measures for YTD/YoY/MoM growth and an
    interactive multi-page dashboard (see `powerbi/PowerBI_Guide.md`).
 
-## 📊 Key Insights
+##  Key Insights
 - **Electronics and Furniture** generate ~85% of total revenue but carry
   thinner margins than Clothing and Beauty.
 - Discounts above **15–20%** push a meaningful number of orders into
@@ -58,7 +58,7 @@ retail-sales-analysis/
 - Regional performance is fairly balanced, with **West** and **North**
   slightly ahead of other regions.
 
-## 📈 Sample Visuals
+##  Sample Visuals
 | Sales by Category | Monthly Sales Trend |
 |---|---|
 | ![Sales by Category](images/sales_by_category.png) | ![Monthly Trend](images/monthly_sales_trend.png) |
@@ -67,7 +67,7 @@ retail-sales-analysis/
 |---|---|
 | ![Sales by Region](images/sales_by_region.png) | ![Discount vs Margin](images/discount_vs_margin.png) |
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 # 1. Clone the repo
 git clone https://github.com/<your-username>/retail-sales-analysis.git
